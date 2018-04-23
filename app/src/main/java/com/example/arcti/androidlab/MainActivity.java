@@ -12,4 +12,6 @@ public class MainActivity extends AppCompatActivity {
     }
     //TODO cos do zriobienia
     //drugie TODO
+
+    //3 TODO
 }
